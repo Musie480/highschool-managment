@@ -1,0 +1,1 @@
+The High School Management System is a comprehensive software solution designed to streamline administrative tasks and enhance communication between stakeholders in a high school environment. From managing student records to facilitating teacher-parent communication, this system aims to optimize efficiency and organization within the school.
